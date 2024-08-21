@@ -38,4 +38,10 @@ Special Thanks For
 <p align = left> <img src="https://telegra.ph/file/b8410a321792a323dec31.jpg"<width=70 height=70/p>
 
 ‎ ‎ ᴀʟᴇx ɪᴅ
+### Contact My Main Owner
+ <p align="center">
+
+  <a aria-label="Owner WhatsApp Channel" href="https://wa.me/+94786328485?text=owner_bashi_🔥" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 
